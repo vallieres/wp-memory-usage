@@ -1,4 +1,4 @@
-# wp-memory-usage
+# WP Memory Usage — Memory on Your Dashboard
 Show up the PHP version, memory limit and current memory usage in the dashboard and admin footer
 
 Show up the PHP version, memory limit and current memory usage in the dashboard and admin footer. You can now simple measure the requirements of your plugins and language files. [Here my blog post about the plugin](http://alexrabe.boelinger.com/2009/06/14/dear-hoster-we-need-more-memory/).
